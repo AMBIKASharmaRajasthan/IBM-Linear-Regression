@@ -1,4 +1,4 @@
-# IBM Linear Regression Project
+# IBM  Regression Project
 
 This repository contains an implementation of **Multiple Linear Regression** using Python and Jupyter Notebook, as part of the IBM Developer Skills Network. The project demonstrates how to use regression models to predict a target variable based on multiple independent variables.
 
